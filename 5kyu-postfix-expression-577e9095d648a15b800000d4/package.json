@@ -1,0 +1,16 @@
+{
+    "name": "name",
+    "description": "description",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "pathToMain",
+    "scripts": {
+        "test": "mocha index.test.js"
+    },
+    "devDependencies": {
+        "@codewars/test-compat": "^1.1.0",
+        "chai": "^5.2.1",
+        "mocha": "^11.7.1",
+        "tsx": "^4.20.3"
+    }
+}
